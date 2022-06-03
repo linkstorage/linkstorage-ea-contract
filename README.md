@@ -1,5 +1,9 @@
 # Sample Linkstorage external adapter contract Project
 
+
+We migrated this repo to [Omnidata protocol](https://github.com/omnidata-network/omnidata-protocol), use this repo at your own risk.
+
+
 This project demonstrates how to use the [Linkstorage](https://github.com/linkstorage/linkstorage-adapters-js) Chainlink oracle adapter.
 
 Try running some of the following tasks:
